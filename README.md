@@ -1,4 +1,4 @@
-# tgs_android_build
+# crypto_H5_Android
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/inwoker/tgs/tgs_android_build.git
+git remote add origin https://gitlab.com/inwoker/cryoto-apps/crypto_h5_android.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/inwoker/tgs/tgs_android_build/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/inwoker/cryoto-apps/crypto_h5_android/-/settings/integrations)
 
 ## Collaborate with your team
 
