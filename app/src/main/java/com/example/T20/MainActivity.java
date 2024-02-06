@@ -114,7 +114,6 @@ public class MainActivity extends AppCompatActivity{
 
         webview.clearCache(true);
 //        webview.(true);
-//        webview.loadUrl("file:///android_asset/bitmex/index.html");
         webview.loadUrl("https://stg-t1-m.rpgp.cc/");
     }
 }
